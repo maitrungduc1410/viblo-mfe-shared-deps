@@ -1,0 +1,15 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.container {
+  padding: 8px;
+}
+
+.widget {
+  border: solid 1px #ccc;
+  border-radius: 4px;
+  padding: 4px;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
